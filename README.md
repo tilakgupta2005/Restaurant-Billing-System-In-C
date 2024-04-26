@@ -10,17 +10,17 @@ Welcome to Restaurant Billing System! This program allows customers to place ord
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/tilakgupta2005/tilaks-cafe-billing.git
+   git clone https://github.com/tilakgupta2005/Restaurant-Billing-System-In-C.git
    ```
 
 2. **Compile the Program:** Navigate to the cloned directory and compile the program using a C compiler. For example:
    ```
-   gcc main.c -o tilaks_cafe_billing
+   gcc main.c -o Restaurant-Billing-System-In-C
    ```
 
 3. **Run the Program:** Execute the compiled program to start the billing system.
    ```
-   ./tilaks_cafe_billing
+   ./Restaurant-Billing-System-In-C
    ```
 
 4. **Follow the Instructions:** Follow the prompts to enter the date, customer name, select items, and quantities. The program will calculate the bill and generate an invoice.
